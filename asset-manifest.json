@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.71c0ced8.css",
-    "main.js": "/static/js/main.d756ac74.js",
-    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
-    "static/media/6.png": "/static/media/6.9446d923007fdde75679.png",
-    "static/media/3.png": "/static/media/3.353bad6fcda93567cd45.png",
-    "static/media/9.png": "/static/media/9.74bb9a03927339046af6.png",
-    "static/media/8.png": "/static/media/8.5f361bc8d47546fbb2de.png",
-    "static/media/7.png": "/static/media/7.817f87b50403e5113c5c.png",
-    "static/media/1.png": "/static/media/1.e43682e261fc0359d205.png",
-    "static/media/4.png": "/static/media/4.eec9ed0614601a0efa29.png",
-    "static/media/5.png": "/static/media/5.dbc1fd5dfa485f2821ae.png",
-    "static/media/2.png": "/static/media/2.1602a9bb7c6183bb25e3.png",
-    "index.html": "/index.html",
-    "main.71c0ced8.css.map": "/static/css/main.71c0ced8.css.map",
-    "main.d756ac74.js.map": "/static/js/main.d756ac74.js.map",
-    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Neoflex-online-shop/static/css/main.3c1c184c.css",
+    "main.js": "/Neoflex-online-shop/static/js/main.6024e0fa.js",
+    "static/js/453.ed3810f9.chunk.js": "/Neoflex-online-shop/static/js/453.ed3810f9.chunk.js",
+    "static/media/6.png": "/Neoflex-online-shop/static/media/6.9446d923007fdde75679.png",
+    "static/media/3.png": "/Neoflex-online-shop/static/media/3.353bad6fcda93567cd45.png",
+    "static/media/9.png": "/Neoflex-online-shop/static/media/9.74bb9a03927339046af6.png",
+    "static/media/8.png": "/Neoflex-online-shop/static/media/8.5f361bc8d47546fbb2de.png",
+    "static/media/7.png": "/Neoflex-online-shop/static/media/7.817f87b50403e5113c5c.png",
+    "static/media/1.png": "/Neoflex-online-shop/static/media/1.e43682e261fc0359d205.png",
+    "static/media/4.png": "/Neoflex-online-shop/static/media/4.eec9ed0614601a0efa29.png",
+    "static/media/5.png": "/Neoflex-online-shop/static/media/5.dbc1fd5dfa485f2821ae.png",
+    "static/media/2.png": "/Neoflex-online-shop/static/media/2.1602a9bb7c6183bb25e3.png",
+    "index.html": "/Neoflex-online-shop/index.html",
+    "main.3c1c184c.css.map": "/Neoflex-online-shop/static/css/main.3c1c184c.css.map",
+    "main.6024e0fa.js.map": "/Neoflex-online-shop/static/js/main.6024e0fa.js.map",
+    "453.ed3810f9.chunk.js.map": "/Neoflex-online-shop/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71c0ced8.css",
-    "static/js/main.d756ac74.js"
+    "static/css/main.3c1c184c.css",
+    "static/js/main.6024e0fa.js"
   ]
 }
